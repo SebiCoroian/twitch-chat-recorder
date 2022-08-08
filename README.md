@@ -13,6 +13,7 @@ We're connecting to the host via Python socket. <br/>
 In config.py, the connection details for Twitch are already set. What needs to be changed is the twitch authentication token, the nickname and the channel. <br/>
 You can get a token for your account at https://twitchapps.com/tmi/ and it should look somewhat like this:
 `oauth:ferdn2jzqj2ncs6jpuddkfa0wdx7qe`
+<br/>
 For additional config information visit https://dev.twitch.tv/docs/irc/join-chat-room <br/>
 <br/>
 Enjoy!
