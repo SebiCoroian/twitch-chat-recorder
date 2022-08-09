@@ -16,6 +16,11 @@ You can get a token for your account at https://twitchapps.com/tmi/ and it shoul
 <br/>
 For additional config information visit https://dev.twitch.tv/docs/irc/join-chat-room <br/>
 <br/>
-Enjoy!
+
+## [logger.py](logger.py)
+
+## [emulator.py](emulator.py)
 
 ![Alt Text](https://github.com/SebiCoroian/twitch-chat-recorder/blob/main/demo.gif)
+
+Enjoy!
