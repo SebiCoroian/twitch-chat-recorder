@@ -18,4 +18,4 @@ For additional config information visit https://dev.twitch.tv/docs/irc/join-chat
 <br/>
 Enjoy!
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/SebiCoroian/twitch-chat-recorder/blob/main/demo.gif)
