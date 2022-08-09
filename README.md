@@ -17,3 +17,5 @@ You can get a token for your account at https://twitchapps.com/tmi/ and it shoul
 For additional config information visit https://dev.twitch.tv/docs/irc/join-chat-room <br/>
 <br/>
 Enjoy!
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
