@@ -14,12 +14,11 @@ def serialize (chatlog):
 	user = str(regex.group(1))
 	message = str(regex.group(2))
 	data = {
-    "chat": {
-        "username": user,
-        "time": timestamp,
-        "message": message
+		"username": user,
+		"time": str(timestamp),
+		"message": message
     	}
-	}
+	
 	serialized = json.dumps(data,indent=2)
 	with open("chatlog.json", "a") as outfile:
 		outfile.write(serialized)
