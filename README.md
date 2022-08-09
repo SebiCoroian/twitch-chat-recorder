@@ -29,6 +29,6 @@ Emulator is the tool that is ran afterwards. Using the contents of the JSON file
 ![Alt Text](https://github.com/SebiCoroian/twitch-chat-recorder/blob/main/demo.gif)
 
 The output is displayed on a green solid color so you can easily remove and overlay on your raw video. <br/>
-This is done by generating and merging together individual frames of the chats. If needed, these are saved by default in `/images/` subfolder.<br/><br/>
+This is done by generating and merging together individual frames of the chats. If needed, these are saved by default in `/images` subfolder.<br/><br/>
 
 Enjoy!
